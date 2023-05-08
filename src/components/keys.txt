@@ -1,0 +1,10 @@
+rfc- to create new react component in js file
+
+create new reat app:-
+                        npx create-react-app my-app
+
+for start server:-
+                        npm start;
+
+routing:-
+                        npm install react-router-dom;
